@@ -5,7 +5,7 @@ import android.widget.Toast;
 
 public class CommonTools {
     public String CT(String abc){
-        String s="oktoday"+abc;
+        String s="okToday"+abc;
         return s;
         //Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         //Toast.makeText(appContext,"请请你再按一次退出",Toast.LENGTH_SHORT).show();
